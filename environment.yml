@@ -1,5 +1,5 @@
 channels:
   - defaults
 dependencies:
-  - anaconda=2020.11
+  - anaconda=2020.11=py38_0
   - python=3.8
