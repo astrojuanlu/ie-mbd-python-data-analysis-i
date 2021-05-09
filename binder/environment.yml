@@ -3,7 +3,6 @@ channels:
 dependencies:
   - _libgcc_mutex=0.1=main
   - alabaster=0.7.12=py_0
-  - anaconda=2020.11=py38_0
   - anaconda-client=1.7.2=py38_0
   - anaconda-project=0.8.4=py_0
   - argh=0.26.2=py38_0
