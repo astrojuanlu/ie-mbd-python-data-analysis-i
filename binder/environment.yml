@@ -1,7 +1,6 @@
 channels:
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=main
   - alabaster=0.7.12=py_0
   - anaconda-client=1.7.2=py38_0
   - anaconda-project=0.8.4=py_0
@@ -116,25 +115,6 @@ dependencies:
   - lazy-object-proxy=1.4.3=py38h7b6447c_0
   - lcms2=2.11=h396b838_0
   - ld_impl_linux-64=2.33.1=h53a641e_7
-  - libarchive=3.4.2=h62408e4_0
-  - libcurl=7.71.1=h20c2e04_1
-  - libedit=3.1.20191231=h14c3975_1
-  - libffi=3.3=he6710b0_2
-  - libgcc-ng=9.1.0=hdf63c60_0
-  - libgfortran-ng=7.3.0=hdf63c60_0
-  - liblief=0.10.1=he6710b0_0
-  - libllvm10=10.0.1=hbcb73fb_5
-  - libpng=1.6.37=hbc83047_0
-  - libsodium=1.0.18=h7b6447c_0
-  - libspatialindex=1.9.3=he6710b0_0
-  - libssh2=1.9.0=h1ba5d50_1
-  - libstdcxx-ng=9.1.0=hdf63c60_0
-  - libtiff=4.1.0=h2733197_1
-  - libtool=2.4.6=h7b6447c_1005
-  - libuuid=1.0.3=h1bed415_2
-  - libxcb=1.14=h7b6447c_0
-  - libxml2=2.9.10=hb55368b_3
-  - libxslt=1.1.34=hc22bd24_0
   - llvmlite=0.34.0=py38h269e1b5_4
   - locket=0.2.0=py38_1
   - lxml=4.6.1=py38hefd8a0e_0
