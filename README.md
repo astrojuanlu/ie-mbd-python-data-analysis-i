@@ -6,7 +6,7 @@
 
 ## Cloud usage
 
-Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/ie-mbd-programming-python-analytics/main)
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/ie-mbd-programming-python-analytics/main?filepath=intro.ipynb)
 
 ## Local installation
 
