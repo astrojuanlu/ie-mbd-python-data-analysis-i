@@ -1,4 +1,4 @@
 channels:
   - defaults
 dependencies:
-  - anaconda=2021.05=py38_0
+  - anaconda=2022.05=py39_0
