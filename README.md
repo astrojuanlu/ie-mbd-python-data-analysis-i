@@ -9,5 +9,14 @@
 ## Local installation
 
 ```
-$ conda env create -n ie_mbd_py1
+$ uv sync
+```
+
+Manually, with pip and venv:
+
+```
+$ python3.12 -m venv .venv
+$ source .venv/bin/activate
+(.venv) $ pip install uv
+(.venv) $ uv sync
 ```
