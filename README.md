@@ -4,9 +4,7 @@
 
 "Python for Data Analysis I" subject from the Master in Big Data @ IE.
 
-## Cloud usage
-
-Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/astrojuanlu/ie-mbd-python-data-analysis-i/main?filepath=intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astrojuanlu/ie-mbd-python-data-analysis-i/)
 
 ## Local installation
 
