@@ -3,8 +3,13 @@ name = "material"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "anywidget>=0.9.18",
+    "geopandas>=1.1.1",
+    "lonboard>=0.12.1",
     "matplotlib>=3.10.0",
     "pandas>=2.2.2",
+    "pip>=23.0",
+    "pyarrow>=18.1",
     "requests>=2.32.4",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
